@@ -4,8 +4,9 @@
   <h2 align="center">All Assignments , Quizzes and Exam papers at one place with clean and elegant solutions totally correct and verified by branch toppers.</h2>
     <hr>
 <p align="center" >
-<img width="430" src="https://user-images.githubusercontent.com/55774240/147537625-ef8f73e4-7865-437d-817f-c689faa5c877.png"></p>
+<img width="430" src="https://user-images.githubusercontent.com/55774240/167264284-5ef37cb7-afdc-412c-b9e0-380631336a11.png"></p>
 <hr>
+
 
 
 ```diff
