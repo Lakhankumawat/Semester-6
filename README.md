@@ -9,7 +9,7 @@
 <img width="430" src="https://user-images.githubusercontent.com/55774240/167264284-5ef37cb7-afdc-412c-b9e0-380631336a11.png"></p>
 <hr>
 <h3 align="center">Some Popular FAQ's about Minor Project</h3>
-  <h4 align="center">Please go through these FAQ's in case your doubt is listed !</h4>
+  <h4 align="center">Please raise an issue in case of doubts related to minor project and we might get back to you as soon as possible .</h4>
   <p align="center" >
    <Coming Soon!>
      </p>
