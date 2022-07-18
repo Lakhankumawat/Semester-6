@@ -28,4 +28,4 @@
 
 <h2 align="center">Made with 💗 by students of NITP 🇮🇳 </h2>
 
-<!-- PEAS TAG ACCOMPLISHMENT -->
+<!-- PEAS TAG ACCOMPLISHMENT 2 -->
