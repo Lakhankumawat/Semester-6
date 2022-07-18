@@ -27,3 +27,4 @@
 <hr>
 
 <h2 align="center">Made with 💗 by students of NITP 🇮🇳 </h2>
+<!-- PEAS BADGE  -->
